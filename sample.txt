@@ -1,0 +1,158 @@
+501,Owner On-Site
+502,Owner On-Site
+502,Owner On-Site
+502,Owner On-Site
+502,Tenant
+502,Tenant
+601,Owner Off-Site
+601,Owner Off-Site
+601,Tenant
+601,Tenant
+601,Tenant
+602,Owner On-Site
+602,Owner On-Site
+603,Owner On-Site
+605,Owner On-Site
+605,Owner On-Site
+606,Owner Off-Site
+606,Owner Off-Site
+606,Tenant
+607,Owner On-Site
+607,Tenant
+607,Tenant
+608,Owner Off-Site
+608,Tenant
+608,Tenant
+608,Unit Manager
+609,Owner Off-Site
+609,Tenant
+610,Owner Off-Site
+610,Owner Off-Site
+610,Tenant
+610,Tenant
+611,Owner Off-Site
+611,Tenant
+611,Guest
+701,Owner Off-Site
+701,Owner Off-Site
+701,Tenant
+701,Tenant
+702,Owner Off-Site
+702,Owner Off-Site
+702,Tenant
+703,Owner On-Site
+703,Owner On-Site
+705,Owner On-Site
+706,Owner On-Site
+706,Tenant
+707,Owner Off-Site
+707,Owner Off-Site
+707,Tenant
+707,Tenant
+707,Tenant
+708,Owner Off-Site
+708,Tenant
+709,Owner On-Site
+709,Owner On-Site
+710,Owner On-Site
+710,Owner Family
+710,Owner Family
+711,Owner Off-Site
+711,Owner Off-Site
+711,Tenant
+711,Tenant
+801,Owner Off-Site
+801,Owner Off-Site
+801,Tenant
+802,Owner On-Site
+802,Owner On-Site
+802,Tenant
+803,Owner Off-Site
+803,Tenant
+805,Owner Off-Site
+805,Owner Off-Site
+805,Owner Off-Site
+805,Tenant
+805,Tenant
+805,Tenant
+805,Unit Manager
+806,Owner Off-Site
+806,Tenant
+807,Owner On-Site
+807,Owner On-Site
+808,Owner On-Site
+809,Owner On-Site
+809,Tenant
+809,Tenant
+809,Tenant
+809,Tenant
+810,Owner Off-Site
+810,Tenant
+810,Tenant
+811,Owner On-Site
+811,Owner On-Site
+811,Tenant
+901,Owner Off-Site
+901,Tenant
+901,Unit Manager
+902,Owner On-Site
+903,Owner On-Site
+905,Owner Off-Site
+905,Owner Off-Site
+905,Tenant
+905,Tenant
+905,Tenant
+906,Owner Off-Site
+906,Owner Off-Site
+906,Tenant
+907,Owner Off-Site
+907,Tenant
+908,Owner Off-Site
+908,Tenant
+908,Tenant
+909,Owner On-Site
+909,Owner On-Site
+909,Tenant
+909,Tenant
+910,Owner Off-Site
+910,Owner Off-Site
+910,Tenant
+910,Tenant
+910,Tenant
+910,Tenant
+911,Owner Off-Site
+911,Owner Off-Site
+911,Tenant
+1001,Owner On-Site
+1002,Owner On-Site
+1003,Owner Off-Site
+1003,Owner Off-Site
+1003,Tenant
+1003,Tenant
+1003,Tenant
+1005,Owner On-Site
+1005,Tenant
+1005,Tenant
+1006,Owner Off-Site
+1006,Owner Off-Site
+1006,Tenant
+1007,Owner Off-Site
+1007,Owner Off-Site
+1007,Unit Manager
+1007,Tenant
+1007,Tenant
+1008,Owner On-Site
+1008,Tenant
+1008,Tenant
+1009,Owner Off-Site
+1009,Owner Off-Site
+1009,Owner On-Site
+1009,Tenant
+1009,Tenant
+1010,Owner Off-Site
+1010,Owner Off-Site
+1010,Tenant
+1010,Tenant
+1011,Owner On-Site
+1011,Owner On-Site
+1011,Tenant

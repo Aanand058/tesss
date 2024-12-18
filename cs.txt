@@ -1373,7 +1373,6 @@ PH05,Owner On-Site
 PH05,Tenant
 PH06,Owner On-Site
 PH06,Unit Manager
-"Count the number of Owner Off-site, Owner On-site and Tenant. Prepare in a table by grouping the data by Unit #",Tenant
 PH07,Owner On-Site
 PH08,Owner On-Site
 PH09,Owner On-Site
